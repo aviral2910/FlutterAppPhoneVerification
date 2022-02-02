@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886065770980",
+    "project_id": "curdotpverification",
+    "storage_bucket": "curdotpverification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886065770980:android:8718ec005f33df5047d7f1",
+        "android_client_info": {
+          "package_name": "com.example.virtuostack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886065770980-5rb4lgc8hn6b99dai63dae3di1l2tg99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtuostack",
+            "certificate_hash": "6d92fc30f771cebea8de1865513150d9eacee82f"
+          }
+        },
+        {
+          "client_id": "886065770980-5gs1a3fu9d6vi68sju3vudbiusouk4lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXX1Ej-ZtalNefPxxNlQ4lknkv5jmK8rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886065770980-5gs1a3fu9d6vi68sju3vudbiusouk4lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
